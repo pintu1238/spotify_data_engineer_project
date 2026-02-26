@@ -1,0 +1,9 @@
+{
+	"name": "spotifydatafct",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f264cc7b-aaa2-4320-91e3-ff15b8875c6f",
+		"tenantId": "7cb5bb4e-fbbd-4e3a-989e-bbaeb146c31c"
+	}
+}
