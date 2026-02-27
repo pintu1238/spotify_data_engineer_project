@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "spotifydatafct"
+		},
+		"AzuretoSql_password": {
+			"value": ""
+		},
+		"DataLake_accountKey": {
+			"value": ""
+		},
+		"AzuretoSql_properties_typeProperties_server": {
+			"value": "spotifyazurep.database.windows.net"
+		},
+		"AzuretoSql_properties_typeProperties_database": {
+			"value": "free-sql-db-1837018"
+		},
+		"AzuretoSql_properties_typeProperties_userName": {
+			"value": "gunjan"
+		},
+		"DataLake_properties_typeProperties_url": {
+			"value": "https://spotifystorageacco.dfs.core.windows.net/"
+		}
+	}
+}
